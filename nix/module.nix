@@ -53,14 +53,7 @@ in {
     };
 
     settings = {
-      NoSettings = mkOption {
-        default = false;
-        example = false;
-        description = ''
-          frik
-        '';
-        type = types.path;
-      };
+
     };
   };
 
